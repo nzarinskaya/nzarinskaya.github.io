@@ -1,0 +1,95 @@
+body {
+    min-width: 320px;
+    max-height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.1rem;
+    max-width: 100%;
+}
+
+
+html {
+    min-height: 100%;
+}
+.navbar-light .navbar-nav .nav-link, .navbar-light .navbar-brand{
+    color: #ffffff;
+}
+
+.im img{
+    position: absolute;
+    width: auto;
+    height:auto;
+    color: #ffffff;
+
+}
+header{
+    position: relative;
+    padding-bottom: 210px;
+}
+
+header a{
+    color: white;
+}
+header img{
+    margin-left:-17px;
+}
+
+.navbar-brand {
+    font-size: 170%;
+    color: #ffffff;
+    margin-top: 20px;
+}
+
+
+.navbar-light{
+    font-size: 100%;
+    color: #ffffff;
+}
+.nav-item{
+    color: #ffffff;
+    margin-left: 40px;
+    font-weight: lighter;
+
+}
+.nav-item a{
+    font-weight: lighter;
+    color: #ffffff;
+
+
+}
+
+.btn-light{
+    color: #c946ef;
+    font-size: 14px;
+
+    font-weight: bolder;
+    width: 130px;
+    height: 35px;
+    border-radius: 15px;
+    margin-left: 20px;
+}
+
+.btn a{
+    margin-left: 10%;
+    color: #c946ef;
+
+}
+
+.nav-item a::after {
+    content: '';
+    display: block;
+    width: 100%;
+    background-color: #f0f0f0;
+    height: 1px;
+    transform: scale(0);
+    transition: all .3s;
+    color: white;
+}
+
+.nav-item a:hover::after {
+    color: white;
+    transform: scale(1);
+}
+
+
+
+

@@ -1,0 +1,85 @@
+.grid-icons{
+    position: relative;
+    display: inline-block;
+    padding-top: 150px;
+    color: #9b67fb;
+
+}
+.grid-icons img{
+    height: 40%;
+    width: 40%;
+    margin-left: 110px;
+    margin-bottom: 7px;
+}
+
+.card-i1{
+    padding-bottom: 130px;
+    margin-left: 130px;
+}
+.card-i1 p{
+    margin-left: 105px;
+    line-height: 0.3rem;
+}
+.card-i1 p2{
+    margin-left: 80px ;
+    line-height: 0.3rem;
+}
+.card-i2{
+    padding-bottom: 130px;
+    margin-left: 130px;
+}
+
+.card-i2 p{
+
+    margin-left: 170px;
+    line-height: 0.3rem;
+    margin-top:10px;
+
+}
+.card-i2 p2{
+    line-height: 0.3rem;
+    margin-left: 130px;
+    padding-right: -50px;
+}
+.card-i2 p1{
+    margin-left: 120px;
+    line-height: 0.3rem;
+}
+
+.card-i3 p{
+    margin-left: 125px;
+    line-height: 0.3rem;
+    margin-top:10px;
+}
+.card-i3 p2{
+
+    margin-left: 137px;
+    line-height: 0.3rem;
+}
+.card-i3{
+    padding-bottom: 130px;
+    margin-left: 105px;
+}
+.card-i4{
+    padding-bottom: 130px;
+    margin-left: 150px;
+}
+.card-i4 img{
+    margin-left: 125px;
+}
+
+.card-i4 p{
+    margin-left: 133px;
+    line-height: 0.3rem;
+    margin-top:10px;
+}
+.card-i4 p2{
+
+    margin-left: 128px;
+    line-height: 0.3rem;
+}
+.card-i4 p1{
+    margin-left: 128px;
+    line-height: 0.3rem;
+}
+

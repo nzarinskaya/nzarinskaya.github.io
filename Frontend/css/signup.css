@@ -1,0 +1,128 @@
+.snp{
+    padding-top: 70px;
+    padding-bottom: 100px;
+}
+
+.snp h3{
+    color: #9b67fb;
+    font-size: 40px;
+    line-height: 3rem;
+}
+.snp p{
+    color: #9b67fb;
+    font-size: 40px;
+    line-height: 3rem;
+    padding-bottom: 30px;
+
+}
+.shadow-lg{
+    border-bottom-right-radius: 30px;
+    border-bottom-left-radius: 30px;
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+
+.btn-primary{
+    color: #ffffff;
+    border-radius: 10px;
+    width: 170px;
+    background-color: #6b8af6;
+    margin-top: 25px;
+    margin-left: 60px;
+}
+
+.snp.form-control{
+    border-radius: 45px;
+}
+.input-group input{
+    border-color: #e68eff;
+    border-width: 2px;
+    border-radius: 10px;
+}
+
+.rounded{
+    margin-top: 70px;
+    opacity: 0.9;
+}
+.bord{
+}
+.form-control::placeholder {
+    font-size: 15px;
+    color: #e68eff;
+}
+.form-control:focus{
+    box-shadow: none ;
+}
+
+.snp h3{
+    padding-top: 70px;
+}
+.snp img{
+    margin-top: -20%;
+}
+.log2 img{
+    margin-bottom: -60%;
+    margin-left: -5%;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    position: relative;
+    grid-column: 3 / span 8;
+    grid-row: 1;
+    padding-top: 20%;
+    z-index: 1;
+    opacity: 0.85;
+
+}
+.log1 img{
+    margin-left: 50%;
+    margin-bottom: -12%;
+
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    position: relative;
+    grid-column: 3 / span 8;
+    grid-row: 1;
+    padding-top: 20%;
+    z-index: 1;
+
+}
+.log3 img{
+    position: absolute;
+    margin-left: 66%;
+
+    margin-top: -26%;
+    opacity: 0.85;
+    height: 485px;
+     width: 580px;
+}
+
+.star1 img{
+    width: 35px;
+    height: 35px;
+    margin-bottom: -25%;
+}
+
+.star2 img{
+    width: 35px;
+    height: 35px;
+    margin-bottom: 15%;
+    margin-left: 650px;
+}
+.star4 img{
+    margin-bottom: -16%;
+    margin-left: 10%;
+}
+.star3 img {
+    margin-bottom: -65%;
+    margin-left: 10%;
+    width: 35px;
+    height: 35px;
+}
+.circle{
+    opacity: 0.6;
+    margin-top: -60px;
+    position: absolute;
+}
+
+
+

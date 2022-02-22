@@ -1,0 +1,48 @@
+
+footer{
+    color: #000;
+    width: 100%;
+    height : 80px;
+    bottom: -210px;
+    position: relative;
+    display: inline-block;
+
+}
+.i img{
+    position: absolute;
+    width: 100%;
+    height: auto;
+    padding-top: 90px;
+}
+
+
+.footer-left span{
+
+    margin-left: 35%;
+    font-size: 90%;
+    color: #ffffff;
+
+}
+.footer-left a{
+    margin-left: 35px;
+}
+.footer-centre span {
+
+    margin-left: 40%;
+    font-size: 90%;
+    color: #ffffff;
+
+}
+.footer-centre a{
+    margin-left: 20px;
+    font-size: 120%;
+}
+
+footer a{
+    font-size: 20px;
+    color: #ffff;
+}
+
+
+
+

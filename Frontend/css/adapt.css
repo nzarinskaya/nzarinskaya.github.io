@@ -1,0 +1,1355 @@
+
+
+@media only screen and (max-width: 1400px){
+    .im img{
+        width: auto;
+    }
+    .navbar-brand {
+        font-size: 170%;
+        margin-top: 40px;
+    }
+
+    .navbar-expand-sm{
+        margin-left: -100px;
+        font-size: 140%;
+
+    }
+
+    .navbar h3{
+        margin-left: -10px;
+    }
+    .btn-light{
+        font-size: 19px;
+        width: 180px;
+        height: 47px;
+        margin-left: 60px;
+        color: #c946ef;
+    }
+
+
+    .nav-item a{
+        margin-left: -30px;
+        font-size: 20px;
+        width: 100px;
+        margin-right: 40px;
+    }
+
+    .first.log_f img{
+        margin-right: 100px;
+    }
+
+    .ime img{
+        width: 50%;
+        height: 85%;
+        position: absolute;
+        margin-right: 50px;
+    }
+    .btn-outline-primary{
+        margin-left: 225px;
+    }
+
+    .first span p{
+        margin-left: 70px;
+    }
+    .t span i{
+        margin-left: -30px;
+    }
+    .first span h3 {
+        margin-left: 70px;
+        margin-right: -400px;
+    }
+    .btn-outline-primary {
+        margin-left: 262px;
+    }
+    .first span h2{
+        margin-left: 282px;
+    }
+    .t span{
+        margin-left: 130px;
+    }
+
+
+    .grid-icons{
+        margin-left: 130px;
+    }
+    .grid-img{
+        margin-left: 50px;
+    }
+
+    .sp1{
+        margin-left: 10%;
+        margin-top: -15px;
+    }
+    .sp2{
+        margin-left: 38%;
+    }
+    .sp3{
+        margin-left: 72%;
+        margin-top: -50px;
+    }
+    .card1 span {
+        right: 68px;
+        bottom: 70px;
+    }
+    .snp{
+        margin-left: 100px;
+    }
+    .i img{
+        width: 107%;
+    }
+
+    .footer-left span{
+        font-size: 110%;
+    }
+
+    .footer-centre span {
+        font-size: 110%;
+    }
+    .footer-centre a{
+        font-size: 130%;
+    }
+    .log3 img{
+        width: 50%;
+    }
+
+}
+@media only screen and (max-width: 1372px) {
+    .log3 img{
+        width: 49%;
+    }
+    .ime img{
+        width: 52%;
+        height: 85%;
+        position: absolute;
+        margin-right: 50px;
+    }
+    .i img{
+        width: 108.5%;
+    }
+}
+@media only screen and (max-width: 1351px) {
+    .ime img{
+        width: 53%;
+        height: 88%;
+        position: absolute;
+        margin-right: 50px;
+    }
+    .btn-outline-primary {
+        margin-left: 235px;
+    }
+    .first span h2{
+        margin-left: 255px;
+    }
+
+}
+
+@media only screen and (max-width: 1302px) {
+    .navbar-expand-sm {
+        margin-left: -120px;
+        font-size: 120%;
+    }
+
+    .navbar h3 {
+        margin-left: 100px;
+    }
+
+    .btn-light {
+        font-size: 19px;
+        width: 180px;
+        height: 47px;
+        margin-left: 40px;
+    }
+
+    .nav-item a {
+        margin-left: -30px;
+        margin-right: 40px;
+        font-size: 18px;
+        margin-top: 15px;
+    }
+
+    .navbar-brand {
+        margin-right: 60px;
+    }
+
+    header img {
+        margin-left: -60px;
+    }
+
+    .ime img {
+        width: 57%;
+        height: 100%;
+        position: absolute;
+    }
+
+    .btn-outline-primary {
+        margin-left: 210px;
+    }
+    .first span h2{
+        margin-left: 230px;
+    }
+    .i img{
+        width:auto;
+    }
+    .log3 img{
+        width: 51%;
+    }
+
+}
+@media only screen and (max-width: 1251px) {
+    .ime img {
+        width: 61%;
+        height: 120%;
+    }
+    .log3 img{
+        width: 53%;
+    }
+}
+
+    @media only screen and (max-width: 1200px) {
+        .ime img {
+            width: 63%;
+            height: 120%;
+            position: absolute;
+        }
+        .text-left-t span {
+            margin-top: 100px;
+        }
+
+        .t {
+            padding-bottom: -150px;
+        }
+
+        .first span h3 {
+            margin-left: 55px;
+        }
+
+        .btn-outline-primary {
+            margin-left: 10px;
+            padding-top: -100px;
+        }
+
+        .first span h2 {
+            margin-left: 140px;
+        }
+
+        .t span i{
+            margin-left: -110px;
+        }
+        .first span p {
+            margin-left: 55px;
+        }
+
+        .ime img {
+            width: 67%;
+            height: 105%;
+            position: absolute;
+        }
+
+        .t span h3 {
+            font-size: 40px;
+            margin-left: 70px;
+        }
+
+        .t span {
+            margin-left: 10px;
+        }
+
+        .first span p {
+            margin-bottom: 60px;
+        }
+
+        .first {
+            padding-top: 70px;
+        }
+
+        .btn-outline-primary {
+            margin-left: 170px;
+            margin-bottom: 80px;
+        }
+
+        .first span h2 {
+            margin-left: 190px;
+        }
+
+
+        .card-i4 p1{
+            margin-left: 100px;
+        }
+
+        .grid-icons{
+            margin-left: 160px;
+        }
+        .card-i1 span{
+            padding-right: 200px;
+            padding-left: 100px;
+        }
+        .card-i2 span{
+            padding-right: 200px;
+            padding-left: 100px;
+        }
+        .card-i2  p2{
+            margin-right: -200px;
+            margin-left: 100px;
+        }
+        .card-i2 p{
+            margin-left: 140px;
+        }
+        .card-i3 span{
+            padding-right: 200px;
+        }
+        .card-i4 span{
+            padding-right: 200px;
+        }
+        .card-i4 p{
+            margin-left: 125px;
+        }
+        .card-i4  p2{
+            margin-left: 115px;
+        }
+        .card-i4 p1{
+            margin-right: -200px;
+            margin-left: 115px;
+        }
+
+        .grid-img{
+            margin-left: 50px;
+        }
+
+        .sp1{
+            margin-left: 10%;
+            margin-top: -15px;
+        }
+        .sp2{
+            margin-left: 38%;
+        }
+        .sp3{
+            margin-left: 72%;
+            margin-top: -50px;
+        }
+        .card1 span {
+            right: 68px;
+            bottom: 70px;
+        }
+
+
+    .grid-img{
+        margin-left: 120px;
+    }
+
+        .card1 span {
+            right: 38px;
+            bottom: 50px;
+        }
+        .sp1{
+            margin-left: 17%;
+            margin-top: -35px;
+        }
+        .sp2{
+            margin-left: 43%;
+        }
+        .sp3{
+            margin-left: 75%;
+            margin-top: -55px;
+        }
+        .snp{
+            margin-left: 281px;
+        }
+        .log3{
+            width: 110%;
+            height: 110%;
+        }
+        .log2 img{
+            margin-bottom: -75%;
+            margin-left: -15%;
+
+        }
+        .log1 img{
+            margin-left: 55%;
+            margin-bottom: -12%;
+            width: 20%;
+            height: 20%;
+
+    }
+        .btn-primary{
+            width: 140px;
+            margin-top: 25px;
+            margin-left: 40px;
+            font-size: 14px;
+        }
+        .footer-centre{
+            margin-right: -300px;
+        }
+
+        .log3 img{
+            width: 63%;
+        }
+    }
+    @media only screen and (max-width: 1101px) {
+
+        .im img {
+            width: auto;
+        }
+
+        .navbar-brand {
+            font-size: 190%;
+            margin-top: 40px;
+        }
+
+        .btn-light {
+            margin-left: 60px;
+            margin-top: 10px;
+
+        }
+
+        .navbar-expand-sm {
+            margin-left: -10px;
+        }
+
+        .nav-item a {
+            font-size: 20px;
+            margin-top: 15px;
+            margin-left: -25px;
+        }
+
+        .navbar h3 {
+            margin-left: -35px;
+        }
+
+        .ime img {
+            width: 78%;
+            height: 120%;
+            position: absolute;
+        }
+        .btn-outline-info {
+            margin-bottom: 135px;
+        }
+        .first span h2 {
+            margin-left: 10px;
+        }
+        .t {
+            padding-bottom: 110px;
+        }
+        .first span h3{
+            margin-left: 120px;
+        }
+        .first span p {
+            margin-left: 120px;
+        }
+        .first span h2{
+            margin-left: 180px;
+        }
+
+
+        .card1 img{
+            height: 205%;
+            width: 205%;
+            padding-right: 320px;
+            margin-left: 10px;
+        }
+
+        .sp1{
+            margin-left: -2%;
+            padding-left: 150px;
+            margin-top: -45px;
+        }
+        .sp2{
+            margin-left: 23%;
+            padding-left: 160px;
+            margin-top: -52px;
+        }
+        .sp3{
+            margin-left: 54%;
+            padding-left: 150px;
+            margin-top: -72px;
+        }
+        .card1 span {
+            right: 83px;
+            bottom: 45px;
+        }
+        .snp{
+            padding-top: 10px;
+            margin-left: 200px;
+            margin-right: -100px;
+        }
+        .grid-img{
+            padding-bottom: 60px;
+        }
+        .btn-primary{
+            width: 110px;
+            margin-left: 60px;
+            font-size: 14px;
+        }
+        .input-group input{
+            border-width: 3px;
+            width: 10px;
+        }
+        .log2 img{
+            margin-bottom: -65%;
+            margin-left: -10%;
+        }
+        .snp{
+            margin-left: 225px;
+            margin-right: -100px;
+        }
+        .log2 img{
+            margin-bottom: -70%;
+            margin-left: -18%;
+            height: 70%;
+            width: 70%;
+        }
+        .log3 img{
+            margin-left: 60%;
+            margin-top: -36%;
+            width: 70%;
+            height: 110%;
+        }
+        .log1 img {
+            margin-left: 50%;
+            width: 20%;
+            height: 20%;
+            margin-bottom: -12%;
+        }
+        .snp h3{
+            font-size: 35px;
+        }
+        .snp p{
+            font-size: 35px;
+        }
+        .log3 img{
+            width: 69%;
+        }
+    }
+
+    @media only screen and (max-width: 1001px) {
+        .navbar-brand {
+            font-size: 180%;
+            margin-top: 55px;
+        }
+
+        .btn-light {
+            margin-left: 20px;
+        }
+
+        .navbar h3 {
+            margin-left: 60px;
+            margin-top: 30px;
+        }
+
+        .nav-item a {
+            font-size: 19px;
+            margin-top: 19px;
+            margin-left: -35px;
+        }
+
+        .ime img {
+            margin-left: 123px;
+            height: 120%;
+        }
+
+        .first span h3 {
+            margin-right: -320px;
+        }
+        .first span p {
+            margin-left: 118px;
+        }
+
+
+
+        .t {
+            padding-bottom: 125px;
+        }
+
+        .btn-outline-info {
+            margin-bottom: 145px;
+        }
+        .btn-outline-primary{
+            margin-left: 150px;
+        }
+        .first span h2 {
+            margin-left: 170px;
+        }
+        .t span i {
+            margin-left: -82px;
+        }
+        .card-i1{
+            margin-right: -100px;
+
+        }
+        .card-i3{
+            margin-right: -100px;
+
+        }
+        .card-i2{
+            margin-right: -100px;
+         }
+        .card-i4{
+            margin-right: -100px;
+
+        }
+        .sp1{
+            position: absolute;
+            font-size: 150px;
+            color: #9b67fb;
+            margin-left: -8%;
+            margin-top: -15px;
+        }
+        .sp2{
+            position: absolute;
+            font-size: 150px;
+            color: #9b67fb;
+            margin-left: 17%;
+            top: 300px;
+        }
+        .sp3{
+            position: absolute;
+            font-size: 150px;
+            color: #9b67fb;
+            margin-left: 50%;
+            margin-top: -38px;
+        }
+        .card1 img{
+            height: 230%;
+            width: 230%;
+            margin-left: -50px;
+            padding-left: 20px;
+            padding-bottom: 100px;
+        }
+        .card1 span{
+            right: 120px;
+            bottom: 120px;
+            font-size: 13px;
+        }
+
+
+        .snp{
+            margin-left: 230px;
+            margin-right: -150px;
+        }
+        .log3 img{
+            width: 75%;
+            height: 120%;
+        }
+        .btn-primary{
+            margin-left: 55px;
+        }
+        .footer-left{
+            margin-left: 50px;
+        }
+
+    }
+
+    @media only screen and (max-width: 991px) {
+
+        .navbar h3 {
+            margin-left: -60px;
+        }
+
+        .navbar-brand {
+            font-size: 190%;
+            margin-top: 55px;
+        }
+        .btn-light {
+            margin-left: 15px;
+        }
+
+        .ime img {
+            margin-left: 283px;
+            height: 120%;
+        }
+    .t span i {
+        margin-left: -100px;
+    }
+    .first span h3 {
+        margin-right: -400px;
+        margin-left: 50px;
+    }
+    .first span p{
+        margin-right: -400px;
+        margin-left: 50px;
+    }
+
+    .btn-outline-primary {
+        margin-left: 189px;
+
+    }
+    .first span h2{
+        margin-left: 209px;
+    }
+    .t span h3{
+        margin-left: 62px;
+    }
+        .card-i1{
+            margin-right: -110px;
+        }
+        .card-i3{
+            margin-right: -110px;
+        }
+        .card-i2{
+            margin-right: -110px;
+        }
+        .card-i4{
+            margin-right: -110px;
+        }
+        .card1 span{
+            right: 130px;
+            bottom: 120px;
+            font-size: 12px;
+            line-height: 1.5rem;
+
+        }
+        .card1 span.p2{
+            right: 120px;
+        }
+
+        .r{
+            margin-left: 180px;
+            margin-right: -250px;
+        }
+        .snp{
+            margin-left: 280px;
+            margin-right: -280px;
+        }
+        .log3 img{
+            width: 80%;
+            height: 120%;
+        }
+        .btn-primary{
+            margin-left: 55px;
+        }
+        .snp{
+            margin-left: 330px;
+            margin-right: -330px;
+        }
+
+        .star4 img{
+            margin-bottom: -16%;
+            margin-left: 27%;
+        }
+        .star3 img {
+            margin-bottom: -45%;
+            margin-left: 65%;
+            width: 35px;
+            height: 35px;
+        }
+        .circle{
+            margin-top: -70px;
+            margin-left: 610px;
+        }
+
+        .footer-centre{
+            margin-right: -450px;
+        }
+        .footer-left{
+            margin-left: -50px;
+        }
+        .log3 img{
+            width: 80%;
+        }
+    }
+@media only screen and (max-width: 800px){
+    .navbar h3{
+        margin-left:30px;
+    }
+    .navbar-brand{
+        font-size: 170%;
+    }
+    .btn-light{
+        margin-left: 50px;
+    }
+    .nav-item a{
+        font-size: 18px;
+        margin-left: -50px;
+    }
+    .ime img {
+        margin-left: 520px;
+    }
+    .first span h3 {
+        margin-right: -420px;
+        margin-left: 140px;
+    }
+    .first span p {
+        margin-left: 140px;
+        margin-right: -200px;
+    }
+    .t span i {
+        margin-left: 10px;
+    }
+    .t span h3{
+        margin-left: 50px;
+    }
+    .btn-outline-primary {
+        margin-left: 191px;
+    }
+    .first span h2 {
+        margin-left: 211px;
+    }
+    .card-i1{
+        margin-right: -110px;
+    }
+    .card-i3{
+        margin-right: -110px;
+    }
+    .card-i2{
+        margin-right: -110px;
+    }
+    .card-i4{
+        margin-right: -110px;
+    }
+    .r{
+        margin-left: 190px;
+        margin-right: -250px;
+    }
+    .sp{
+        padding-top:-5%;
+        padding-bottom: 7%;
+    }
+    .card-i3,.card-i2,.card-i4,.card-i1{
+        padding-bottom: 50px;
+    }
+    .sp1{
+        font-size: 100px;
+        margin-left: -8%;
+        margin-top: 30px;
+    }
+    .sp2{
+        font-size: 100px;
+        margin-left: 17%;
+        top: 300px;
+    }
+    .sp3{
+        font-size: 100px;
+        margin-left: 49%;
+        margin-top: 15px;
+    }
+    .card1 img{
+        height: 270%;
+        width: 270%;
+        margin-left: -50px;
+        padding-left: 20px;
+        padding-bottom: 100px;
+    }
+    .card1 span{
+        right: 100px;
+        bottom: 120px;
+        font-size: 11px;
+        line-height: 1.5rem;
+
+    }
+    .card1 span p2{
+        margin-left: 190px;
+    }
+    .card1 span p{
+        margin-left: 190px;
+    }
+    .snp{
+        margin-left: 380px;
+        margin-right: -420px;
+    }
+    .star4 img{
+        margin-bottom: -16%;
+        margin-left: 23%;
+    }
+    .star3 img {
+        margin-bottom: -45%;
+        margin-left: 65%;
+        width: 35px;
+        height: 35px;
+    }
+    .circle{
+        margin-top: -70px;
+        margin-left: 535px;
+    }
+    .footer-centre{
+        margin-right: -600px;
+    }
+    .footer-left{
+        margin-left: 50px;
+    }
+
+    .log3 img{
+        width: 82%;
+    }
+}
+
+
+@media only screen and (max-width: 767px){
+    .ime img {
+        margin-left: 637px;
+        height: 100%;
+    }
+    .t span i {
+        margin-left: -50px;
+    }
+    .first span p {
+        margin-left: 100px;
+        margin-right: -300px;
+    }
+    .first span h3 {
+        margin-right: -460px;
+        margin-left: 100px;
+    }
+    .btn-outline-primary {
+        margin-left: 215px;
+        margin-bottom: 115px;
+
+    }
+    .first span h2{
+        margin-left: 235px;
+    }
+
+    .t {
+        padding-bottom: 90px;
+    }
+
+    .btn-outline-info {
+        margin-bottom: 115px;
+    }
+    .t span h3{
+        margin-left: 65px;
+    }
+    .card-i1{
+        margin-right: -200px;
+    }
+    .card-i3{
+        margin-right: -200px;
+    }
+    .card-i2{
+        margin-right: -200px;
+    }
+    .card-i4{
+        margin-right: -200px;
+    }
+    .u{
+        margin-left: 100px;
+    }
+
+
+    .card-i2  p2{
+        margin-left: 80px;
+    }
+    .card-i2 p{
+        margin-left: 130px;
+    }
+    .card-i2 span{
+        padding-right: 20px;
+    }
+    .card-i4 img{
+        margin-left: 100px;
+    }
+    .card-i4 p{
+        margin-left: 95px;
+    }
+    .card-i4  p2{
+        margin-left: 95px;
+    }
+    .card-i4 p1{
+        margin-left: 95px;
+    }
+
+
+    .card1 img{
+        height: 150%;
+        width: 150%;
+        margin-left: -50px;
+        padding-left: 20px;
+        padding-bottom: 100px;
+    }
+    .card1 span{
+        right: 200px;
+        bottom: 230px;
+        font-size: 30px;
+        line-height: 3rem;
+    }
+    .sp1{
+        font-size: 300px;
+        margin-left: -45%;
+        margin-top: 70px;
+    }
+    .sp2{
+        font-size: 300px;
+        margin-left: -52%;
+        margin-top: 500px;
+    }
+    .sp3{
+        font-size: 300px;
+        margin-left: -50%;
+        margin-top: 1150px;
+    }
+    .sp span{
+        font-size: 45px;
+        margin-left: 30%;    }
+
+    .snp{
+        margin-left: 300px;
+        margin-right: -480px;
+    }
+    .input-group {
+        width: 300px;
+    }
+
+    .form-control::placeholder{
+        font-size: 20px;
+    }
+    .btn-primary{
+        width: 150px;
+        height: 40px;
+        font-size: 18px;
+        margin-left: 80px;
+    }
+    .log1 img{
+
+    }
+    .log2 img{
+
+
+    }
+    .log3 img{
+       width: 110%;
+        height: 110%;
+        margin-left: 70%;
+        margin-top: -46%;
+
+    }
+    .log2 img{
+        margin-bottom: -100%;
+        margin-left: -58%;
+        height: 110%;
+        width: 110%;
+    }
+
+    .log1 img {
+        margin-left: 60%;
+        width: 30%;
+        height: 30%;
+        margin-bottom: -22%;
+    }
+
+    .star4 img{
+        margin-bottom: -16%;
+        margin-left: 17%;
+    }
+    .star3 img {
+        margin-bottom: -40%;
+        margin-left: 65%;
+    }
+    .circle{
+        margin-top: -70px;
+        margin-left: 660px;
+    }
+    .footer-centre{
+        margin-right: -700px;
+    }
+    .footer-left{
+        margin-left: -40px;
+    }
+    .log3 img{
+        width: 120%;
+    }
+}
+
+@media only screen and (max-width: 656px){
+    .ime img {
+        margin-left: 570px;
+        width: 110%;
+        height: 120%;
+    }
+    .t span i {
+        margin-left: 10px;
+    }
+    .first span p {
+        margin-left: 100px;
+        margin-right: -300px;
+    }
+    .first span h3{
+        margin-right: -590px;
+    }
+    .btn-outline-primary {
+        margin-left: 225px;
+    }
+    .sp1{
+        font-size: 270px;
+        margin-left: -70%;
+        margin-top: 60px;
+    }
+    .sp2{
+        font-size: 270px;
+        margin-left: -77%;
+        margin-top: 420px;
+    }
+    .sp3{
+        font-size: 270px;
+        margin-left: -75%;
+        margin-top: 900px;
+    }
+
+    .r{
+        margin-left: 300px;;
+    }
+    .card1 img{
+        height: 200%;
+        width: 200%;
+        margin-left: -50px;
+        padding-left: 20px;
+        padding-bottom: 100px;
+    }
+    .card1 span{
+        right: 80px;
+        bottom: 180px;
+        font-size: 29px;
+    }
+    .snp{
+        margin-left: 400px;
+        margin-right: -480px;
+    }
+    .footer-centre{
+        margin-right: -800px;
+    }
+    .footer-left{
+        margin-left: 10px;
+    }
+}
+
+@media only screen and (max-width: 575px){
+    .nav-item a{
+        margin-left: -10px;
+        font-size: 20px;
+        width: 100px;
+        color: #c946ef;
+    }
+    .navbar-light .navbar-nav .nav-link{
+        color: #c946ef;
+    }
+
+    .navbar-brand{
+        font-size: 250%;
+    }
+    .navbar-toggler span{
+        margin-left: 140px;
+    }
+    header img{
+        width: 23%;
+        height: 23%;
+        margin-left: -22%;
+        margin-right: -10%;
+    }
+    .btn-light{
+        background-color: white;
+        margin-top: 7px;
+        border: none;
+    }
+
+    .btn-light{
+        margin-left: -5%;
+    }
+    .ime img {
+        margin-left: 280px;
+    }
+    .first span h3{
+        margin-right: -290px;
+        margin-left: 190px;
+    }
+    .t span h3{
+        margin-left: 30px;
+    }
+    .t span i {
+        margin-left: 80px;
+    }
+    .first span p{
+        margin-left: 190px;
+    }
+    .first span h2{
+        margin-left: 222px;
+
+    }
+    .btn-outline-primary {
+        margin-left: 202px;
+    }
+
+    .card-i1{
+        margin-right: -500px;
+        margin-left: 320px;
+    }
+    .card-i1 img{
+        margin-left: 140px;
+    }
+    .card-i1 p{
+        margin-left: 125px;
+
+    }
+    .card-i3{
+        margin-right: -500px;
+        margin-left: 320px;
+    }
+    .card-i2{
+        margin-right: -500px;
+        margin-left: 320px;
+    }
+    .card-i2 p{
+        margin-left: 170px;
+    }
+    .card-i4{
+        margin-right: -500px;
+        margin-left: 360px;
+    }
+    .card-i4 p1{
+        margin-left: 124px;
+    }
+    .card-i4 img{
+        margin-left: 145px;
+    }
+    .grid-icons{
+        font-size: 40px;
+    }
+
+    .r{
+        margin-left: 400px;
+    }
+    .card1 img{
+        height: 230%;
+        width: 230%;
+        margin-left: -50px;
+        padding-left: 20px;
+        padding-bottom: 100px;
+    }
+    .card1 span{
+        right: 60px;
+        bottom: 180px;
+        font-size: 29px;
+    }
+
+    .sp1{
+        font-size: 200px;
+        margin-left: -70%;
+        margin-top: 110px;
+    }
+    .sp2{
+        font-size: 200px;
+        margin-left: -77%;
+        margin-top: 450px;
+    }
+    .sp3{
+        font-size: 200px;
+        margin-left: -75%;
+        margin-top: 970px;
+    }
+    .snp{
+        margin-left: 420px;
+        margin-right: -430px;
+    }
+
+    .log3 img{
+        height: 110%;
+
+    }
+    .log2 img{
+        margin-bottom: -90%;
+        margin-left: -68%;
+    }
+    .log1 img {
+        margin-left: 50%;
+    }
+    .snp p{
+        padding-bottom: 1px;
+    }
+
+    .grid-img{
+        padding-bottom: -100px;
+    }
+    .star4 img{
+        margin-left: -5%;
+    }
+    .star3 img {
+        margin-bottom: -50%;
+        margin-left: 75%;
+    }
+    .circle{
+        margin-top: -70px;
+        margin-left: 520px;
+    }
+    .footer-centre{
+        margin-right: -800px;
+    }
+    .footer-left{
+        margin-left: 60px;
+    }
+    .log3 img{
+        width: 109%;
+    }
+
+}
+@media only screen and (max-width: 540px){
+
+    header img{
+        width: 20%;
+        height: 20%;
+        margin-left: -18%;
+        margin-right: -6%;
+    }
+    .ime img {
+        margin-left: 350px;
+    }
+}
+
+@media only screen and (max-width: 500px){
+
+    header img{
+        width: 20%;
+        height: 20%;
+        margin-left: -28%;
+        margin-right: -12%;
+    }
+    .navbar-brand{
+        font-size: 200%;
+    }
+    .ime img {
+width: 127%
+    }
+
+    .snp{
+        margin-left: 410px;
+        margin-right: -570px;
+    }
+
+
+    .grid-img{
+        padding-bottom: -100px;
+    }
+    .star4 img{
+        margin-left: -5%;
+    }
+    .star3 img {
+        margin-bottom: -50%;
+        margin-left: 75%;
+    }
+    .circle{
+        margin-top: -70px;
+        margin-left: 520px;
+    }
+    .log3 img{
+        width: 91%;
+    }
+}
+@media only screen and (max-width: 460px){
+
+    header img{
+        width: 20%;
+        height: 20%;
+        margin-left: -28%;
+        margin-right: -12%;
+    }
+    .navbar-brand{
+        font-size: 200%;
+
+    }
+    .ime img {
+        width: 147%
+    }
+    .snp{
+        margin-left: 500px;
+        margin-right: -580px;
+    }
+    .log3 img{
+        width: 120%;
+    }
+
+}
